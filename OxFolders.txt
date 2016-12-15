@@ -1,11 +1,12 @@
-./Brand-Assets
+./_Brand-Assets
 ./Project-Name/Design/Audio-Design
 ./Project-Name/Design/Visual-Design/Mood-Boards
 ./Project-Name/Design/Visual-Design/Comps
 ./Project-Name/Design/UX/User-Flows
 ./Project-Name/Design/UX/Sitemap
 ./Project-Name/Design/UX/Wireframes
-./Project-Name/Project-Assets/From-Client
+./Project-Name/Project-Assets/From-Client/Fonts
+./Project-Name/Project-Assets/From-Client/Docs
 ./Project-Name/Docs/Meeting-Notes
 ./Project-Name/Deliverables/Exported-Assets
 ./Project-Name/Deliverables/Source-Files/Audio-Design
